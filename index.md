@@ -15,7 +15,7 @@ From 2019 to 2020, I worked at Ant Group, and from 2017 to 2019, I was with Inte
 - MVMonT: Securing Confidential Deployments with Attestable Multi-Variant Monitoring.
   *Kailun Qin* and Dawu Gu.
   *@SRDS 2025*
-- MVTEE: Multi-Variant Trusted Execution for Secure Model Inference.
+- [MVTEE: Multi-Variant Trusted Execution for Secure Model Inference](https://kailun-qin.github.io/files/mvtee_middleware25.pdf).
   *Kailun Qin* and Dawu Gu.
   *@Middleware 2025*
 - [To Share or Hide: Confidential Model Compilation as a Service with Privacy-Preserving Transparency](https://ieeexplore.ieee.org/document/10806612).
