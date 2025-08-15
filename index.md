@@ -1,12 +1,12 @@
 # Kailun Qin
 
-Currently, I work at Intel in Shanghai, China, with a focus on software infrastructure for current- and next-gen Intel TEEs. In particular, I am one of the maintainers of the [Gramine project](https://github.com/gramineproject) -- a lightweight Library OS/unikernel (with SGX and TDX backends) for confidential computing.
+Currently, I work at Intel in Shanghai, China, with a focus on software infrastructure for current- and next-gen Intel Trusted Execution Environments (TEEs). In particular, I am one of the maintainers of the [Gramine project](https://github.com/gramineproject) -- a lightweight Library OS/unikernel (with SGX and TDX backends) for confidential computing.
 
 Meanwhile, I am earning my DEng degree part-time at Shanghai Jiao Tong University (SJTU), as part of the Lab of Cryptology and Computer Security (LoCCS), under the supervision of Prof. Dawu Gu. My research centers on confidential computing, while my interests also extend to system software, system security, and cloud security.
 
 From 2019 to 2020, I worked at Ant Group, and from 2017 to 2019, I was with Intel. Prior to joining Intel as a Recent College Graduate (RCG) in 2017, I interned at NXP Semiconductors (2015-2016) and STMicroelectronics (Le Mans, France, 2015) during my master's studies at IMT Atlantique (Nantes, France) and Nanjing University of Science and Technology (China).
 
-[**Email**](kailun.qin@hotmail.com) / [**Github**](https://github.com/kailun-qin)
+[**Email**](mailto:kailun.qin@hotmail.com) / [**Github**](https://github.com/kailun-qin)
 
 ## Research
 
@@ -34,8 +34,10 @@ From 2019 to 2020, I worked at Ant Group, and from 2017 to 2019, I was with Inte
   Xiaolin Zhang, *Kailun Qin*, Shipei Qu, Tengfei Wang, Chi Zhang, Dawu Gu.
   *@Preprint*
 - [Rapid Deployment of Confidential Cloud Applications with Gramine](https://www.acsac.org/2024/program/artifacts_competition/comp-acsac24-final10.pdf).
-  Michał Kowalczyk, Dmitri Kuvaiskii, Paweł Marczewski, Borys Popławski, Wojtek Porczyk, Donald Porter, *Kailun Qin*, Chia-Che Tsai, Mona Vij, Isaku Yamahata.
+  (In alphabetical order) Michał Kowalczyk, Dmitri Kuvaiskii, Paweł Marczewski, Borys Popławski, Wojtek Porczyk, Donald Porter, *Kailun Qin*, Chia-Che Tsai, Mona Vij, Isaku Yamahata.
   *Cybersecurity Artifacts Impact Award @ACSAC 2024*
+- [Confidential VM Extension (CoVE) for Confidential Computing](https://github.com/riscv-non-isa/riscv-ap-tee), *RISC-V Non-ISA Specification (in Freeze)*.
+  (In alphabetical order) Andrew Bresticker, Andy Dellow, Atish Patra, Atul Khare, Beeman Strong, Christian Bolis, Dingji Li, Dong Du, Dylan Reid, Eckhard Delfs, Fabrice Marinet, Guerney Hunt, Jiewen Yao, *Kailun Qin*, Manuel Offenberg, Nicholas Wood, Nick Kossifidis, Osman Koyuncu, Qing Li, Rajnesh Kanwal, Ravi Sahita, Rob Bradford, Samuel Ortiz, Steven Bellock, Vedvyas Shanbhogue, Wojciech Ozga, Yann Loisel.
 
 ### Others
 
@@ -43,12 +45,12 @@ From 2019 to 2020, I worked at Ant Group, and from 2017 to 2019, I was with Inte
   Tianyi Huang, Xiaolin Zhang, *Kailun Qin*, Boshi Yuan, Chenghao Chen, Yipeng Shi, Chi Zhang, Dawu Gu.
   *@ICICS 2025*
 - [Now Let’s Make It Physical! Enabling Trusted Certificate Issuance in PKI via Physical Bindings for CAs](https://arxiv.org/abs/2404.15582).
-  Xiaolin Zhang, Chenghao Chen, *Kailun Qin*, Yuxuan Wang, Shipei QU, Tengfei Wang, Chi Zhang, Dawu Gu.
+  Xiaolin Zhang, Chenghao Chen, *Kailun Qin*, Yuxuan Wang, Shipei Qu, Tengfei Wang, Chi Zhang, Dawu Gu.
   *@SecureComm 2025*
 - [RISecure-PUF: Multipurpose PUF-Driven Security Extensions with Lookaside Buffer in RISC-V](https://arxiv.org/abs/2411.14025).
   Chenghao Chen, Xiaolin Zhang, *Kailun Qin*, Tengfei Wang, Yipeng Shi, Tianyi Huang, Chi Zhang, Dawu Gu.
   *@Preprint*
-  
+
 ## Talks
 
 - [Towards the Hardened Cloud-Native Cornerstone: Container Runtime Protection from Security to Privacy](https://www.youtube.com/watch?v=w3I23EnC5qs&list=PLj6h78yzYM2P3qs7Y_QPD4uCgQ4Krsgb3). *@KubeCon/Cloud Native SecurityCon 2022*
