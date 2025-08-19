@@ -1,1 +1,4 @@
 title: Kailun Qin
+url: "https://kailun-qin.github.io"
+plugins:
+  - jekyll-sitemap
