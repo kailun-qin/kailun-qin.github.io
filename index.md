@@ -27,11 +27,11 @@ From 2019 to 2020, I worked at Ant Group, and from 2017 to 2019, I was with Inte
 - [Gramine-TDX: A Lightweight OS Kernel for Confidential VMs](https://dl.acm.org/doi/10.1145/3658644.3690323).
   Dmitrii Kuvaiskii, Dimitrios Stavrakakis, *Kailun Qin*, Cedric Xing, Pramod Bhatotia, Mona Vij.
   *@ACM CCS 2024*
-- [Securing Nested Attestation of Confidential Serverless Computing without Intra-Enclave Isolation](https://eprint.iacr.org/2025/727).
-  Atsuki Momose, *Kailun Qin*, Ao Sakurai, Mona Vij.
-  *@Preprint*
 - [Teamwork Makes TEE Work: Open and Resilient Remote Attestation on Decentralized Trust](https://arxiv.org/abs/2402.08908).
   Xiaolin Zhang, *Kailun Qin*, Shipei Qu, Tengfei Wang, Chi Zhang, Dawu Gu.
+  *@TDSC*
+- [Securing Nested Attestation of Confidential Serverless Computing without Intra-Enclave Isolation](https://eprint.iacr.org/2025/727).
+  Atsuki Momose, *Kailun Qin*, Ao Sakurai, Mona Vij.
   *@Preprint*
 - [Rapid Deployment of Confidential Cloud Applications with Gramine](https://www.acsac.org/2024/program/artifacts_competition/comp-acsac24-final10.pdf).
   (In alphabetical order) Michał Kowalczyk, Dmitri Kuvaiskii, Paweł Marczewski, Borys Popławski, Wojtek Porczyk, Donald Porter, *Kailun Qin*, Chia-Che Tsai, Mona Vij, Isaku Yamahata.
@@ -41,15 +41,15 @@ From 2019 to 2020, I worked at Ant Group, and from 2017 to 2019, I was with Inte
 
 ### Others
 
-- Secure and Scalable TLB Partitioning Against Timing Side-Channel Attacks.
+- [Secure and Scalable TLB Partitioning Against Timing Side-Channel Attacks](https://link.springer.com/chapter/10.1007/978-981-95-3537-8_8).
   Tianyi Huang, Xiaolin Zhang, *Kailun Qin*, Boshi Yuan, Chenghao Chen, Yipeng Shi, Chi Zhang, Dawu Gu.
   *@ICICS 2025*
 - [Now Let’s Make It Physical! Enabling Trusted Certificate Issuance in PKI via Physical Bindings for CAs](https://arxiv.org/abs/2404.15582).
   Xiaolin Zhang, Chenghao Chen, *Kailun Qin*, Yuxuan Wang, Shipei Qu, Tengfei Wang, Chi Zhang, Dawu Gu.
   *@SecureComm 2025*
-- [RISecure-PUF: Multipurpose PUF-Driven Security Extensions with Lookaside Buffer in RISC-V](https://arxiv.org/abs/2411.14025).
+- [Building Provably Secure Pseudo-Strong PUFs via Weak PUFs and Pseudorandom Functions for Cryptographic Protocols](https://arxiv.org/abs/2411.14025).
   Chenghao Chen, Xiaolin Zhang, *Kailun Qin*, Tengfei Wang, Yipeng Shi, Tianyi Huang, Chi Zhang, Dawu Gu.
-  *@Preprint*
+  *@TrustCom 2025*
 
 ## Talks
 
