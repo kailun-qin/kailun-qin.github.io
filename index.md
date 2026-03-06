@@ -12,7 +12,7 @@ From 2019 to 2020, I worked at Ant Group, and from 2017 to 2019, I was with Inte
 
 ### Trusted Execution Environment
 
-- MVMonT: Securing Confidential Deployments with Attestable Multi-Variant Monitoring.
+- [MVMonT: Securing Confidential Deployments with Attestable Multi-Variant Monitoring](https://ieeexplore.ieee.org/abstract/document/11360368).
   *Kailun Qin* and Dawu Gu.
   *@SRDS 2025*
 - [MVTEE: Multi-Variant Trusted Execution for Secure Model Inference](https://kailun-qin.github.io/files/mvtee_middleware25.pdf).
